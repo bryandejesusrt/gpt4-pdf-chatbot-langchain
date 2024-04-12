@@ -56,6 +56,19 @@
   display: flex;
 }
 
+.generatebutton2 {
+  height: 30px;
+  width: 30px;
+  position: absolute;
+  top: 0.95rem;
+  right: 3rem;
+  color: rgb(165, 162, 162);
+  background: none !important;
+  padding: 1px !important;
+  border: none;
+  display: flex;
+}
+
 .loadingwheel {
   position: absolute;
   top: 0.2rem;
